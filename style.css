@@ -1,9 +1,4 @@
-@font-face { 
-  font-family: sofia;
-  src: url('https://fonts.googleapis.com/css?family=Sofia'); 
-}
-
 body {
   background-color: rgb(36,36,36);
-  font-family: sofia;
+  color: rgb(230,230,230);
 }
